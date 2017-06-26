@@ -1,6 +1,4 @@
-/**
- * Created by ryandabir on 2017-05-30.
- */
+// By: Ryan Dabir
 public class Euler {
 
     public static void main(String[] args) {
