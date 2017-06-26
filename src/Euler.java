@@ -9,6 +9,7 @@ public class Euler {
         euler.question4();
     }
 
+    //https://projecteuler.net/problem=1
     public void question1() {
 
         int nums[] = new int[500];
@@ -27,6 +28,7 @@ public class Euler {
         System.out.println(sum);
     }
 
+    //https://projecteuler.net/problem=2
     public void question2() {
 
         long fibNum1 = 0;
@@ -48,6 +50,7 @@ public class Euler {
         System.out.println(sum);
     }
 
+    //https://projecteuler.net/problem=4
     public void question4() {
 
         int product;
